@@ -47,13 +47,13 @@ python main.py
 
 Enter the input file name: test.png
 Enter the output file name: stego.png
-Enter the secret message to hide: Hi I'm Preethi
+Enter the secret message to hide: Hello
 
 
 *Extract a Message*
 
 Enter the input file name: stego.png
-Extracted Message: Hi I'm Preethi
+Extracted Message: Hello
 
 
 ## 📦 Dependencies
