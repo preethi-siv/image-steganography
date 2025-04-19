@@ -22,7 +22,7 @@ project-folder/
 
 ### Step 1: Clone the Repository
 bash
-git clone https://github.com/your-username/image-steganography.git
+git clone (https://github.com/preethi-siv/image-steganography)
 cd image-steganography
 
 
@@ -45,14 +45,14 @@ python main.py
 ## 🧪 Example
 *Hide a Message*
 
-Enter the input file name: test_image.png
-Enter the output file name: stego_image.png
+Enter the input file name: test.png
+Enter the output file name: stego.png
 Enter the secret message to hide: Hi I'm Preethi
 
 
 *Extract a Message*
 
-Enter the input file name: stego_image.png
+Enter the input file name: stego.png
 Extracted Message: Hi I'm Preethi
 
 
@@ -66,7 +66,7 @@ Extracted Message: Hi I'm Preethi
 - Web or desktop GUI
 
 ## 🧑‍💻 Author
-Preethi | [GitHub](https://github.com/your-username)
+Preethi | [GitHub](https://github.com/preethi-siv)
 
 ## 📜 License
 This project is licensed under the MIT License.
